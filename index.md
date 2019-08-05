@@ -1,6 +1,7 @@
 ---
+layout: default
+title: Inicio
 ---
-
 
 Información sobre el curso para el semestre 2020-1
 
