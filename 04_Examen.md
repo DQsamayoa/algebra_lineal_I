@@ -5,8 +5,10 @@ title: Exámenes
 
 En esta sección se subirán las tareas-examen asociadas al curso. 
 
+## Tarea Examn 01
+
 <p class="message">
-La tarea-examen 1 la pueden descargar en este <a href="https://drive.google.com/file/d/1eEk4qPri4CGfixfWFc3NHk1oAjIPxfq9/view?usp=sharing">link</a>[link].
+La tarea-examen 1 la pueden descargar en este <a href="https://drive.google.com/file/d/1eEk4qPri4CGfixfWFc3NHk1oAjIPxfq9/view?usp=sharing" target="_blank">link</a>.
 </p>
 
 

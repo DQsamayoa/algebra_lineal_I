@@ -3,15 +3,10 @@ layout: default
 title: Inicio
 ---
 
-<h1>All Posts</h1>
-<div>
-  <ul class="related-posts">
-    {% for post in site.posts %}
-      {% assign post_date = post.date | date_to_string %}
-      {% include item_formatter.html small_text=post_date item_href=post.url item_link=post.title %}
-    {% endfor %}
-  </ul>
-</div>
+## Avisos
+{% include post_archive.html %}
+
+## Información del curso
 
 Información sobre el curso para el semestre 2020-1
 
