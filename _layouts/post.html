@@ -12,13 +12,13 @@ layout: default
 
 <div class="pagination">
   {% if page.previous %}
-    <a class="pagination-item older" href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}">Older</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}">Anterior</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Anterior</span>
   {% endif %}
   {% if page.next %}
-    <a class="pagination-item newer" href="{{ site.baseurl }}{{ page.next.url }}" title="{{ page.next.title }}">Newer</a>
+    <a class="pagination-item newer" href="{{ site.baseurl }}{{ page.next.url }}" title="{{ page.next.title }}">Siguiente</a>
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Siguiente</span>
   {% endif %}
 </div>

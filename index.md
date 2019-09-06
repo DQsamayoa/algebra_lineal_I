@@ -3,10 +3,10 @@ layout: default
 title: Inicio
 ---
 
-## Avisos
+# Avisos
 {% include post_archive.html %}
 
-## Información del curso
+# Información del curso
 
 Información sobre el curso para el semestre 2020-1
 
