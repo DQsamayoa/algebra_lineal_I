@@ -8,3 +8,5 @@ En esta sección se subirán las tareas asociadas al curso. Recuerden que las ta
 - La tarea 01 la pueden descargar en este [link](https://drive.google.com/file/d/1Y12H7GTZK5V-0H17RUC03h7AupiiozJy/view?usp=sharing)
 
 - La tarea 02 la pueden descargar en este [link](https://drive.google.com/file/d/1S4SaOT-3dmTYGf3bTMPUlIWqdc_7Yqx1/view?usp=sharing)
+
+- La tarea 03 la pueden descargar en este [link](https://drive.google.com/file/d/1LS7eF0aCSpKE05q3R07yuZ7zl9l3BaYq/view?usp=sharing)
