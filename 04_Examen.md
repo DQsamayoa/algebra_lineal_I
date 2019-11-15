@@ -83,7 +83,7 @@ A continuación se les presentan las condiciones para la entrega. En caso de no 
 
 **Entrega en formato electrónico**
 
-- El examen se entrega **a más tardar** martes 19 de octubre de 2019 a las 20:59:59 hrs
+- El examen se entrega **a más tardar** martes 19 de noviembre de 2019 a las 20:59:59 hrs
 - Deben mandarlo a los correos electrónicos tanto del profesor como del ayudante:
     - **Profesor:** Francisco de Jesús Rivera Torres
         - **Correo:** fc-river+algebra_lineal_I_2020-1@ciencias.unam.mx
