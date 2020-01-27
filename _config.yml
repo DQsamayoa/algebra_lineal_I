@@ -6,7 +6,7 @@ exclude:             [CNAME, Gemfile, README.md, LICENSE.md, scratch.md]
 unpublished:         true
 show_drafts:         false
 title:               'Álgebra Lineal I'
-tagline:             'Semestre 2020-1'
+tagline:             'Semestre 2020-2'
 description:         ''
 url:                 ''
 baseurl:             '/algebra_lineal_I'
@@ -15,7 +15,7 @@ baseurl:             '/algebra_lineal_I'
 author:
   name:              'Víctor Augusto Samayoa Donado'
   url:               ''
-  email:             'vasamayoa+algebra_lineal_I_2020-1@ciencias.unam.mx'
+  email:             'vasamayoa+algebra_lineal_I_2020-2@ciencias.unam.mx'
 
 # Custom vars
 version:             1.1.0
