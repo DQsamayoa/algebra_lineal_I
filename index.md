@@ -17,6 +17,8 @@ Información sobre el curso para el semestre 2020-2
     - **Correo:** fc-river+algebra_lineal_I_2020-2@ciencias.unam.mx
 - **Ayudante:** Víctor Augusto Samayoa Donado
     - **Correo:** vasamayoa+algebra_lineal_I_2020-2@ciencias.unam.mx
+- **Ayudante:** Mario Raúl Vargas Martínez
+    - **Correo:** marioraul+algebra_lineal_I_2020-2@ciencias.unam.mx  
 
 <p class="message">
 Respetar la inclusión de <b>+algebra_lineal_I_2020-2</b> en los correos, de lo contrario el correo no se guardará de forma correcta en la carpeta asociada al curso y no será posible darle seguimiento.
